@@ -1,2 +1,4 @@
-# Graduation-thesis-experimental-code
-毕业论文实验代码汇总
+# Graduation-thesis-experimental
+毕业设计成果
+* 搭建环境文档
+* 毕设实验中的代码汇总
